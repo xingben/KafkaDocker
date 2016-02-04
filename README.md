@@ -1,2 +1,1 @@
-# KafkaDocker
-replicate wurstmeister docker kafka
+replicate wurstmeister kafka docker images
